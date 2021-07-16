@@ -4,4 +4,4 @@ title: Test
 ---
 # About page
 
-This is a easy page.
+This is an easy page.
