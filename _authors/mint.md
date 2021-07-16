@@ -1,6 +1,6 @@
 ---
 short_name: mint
-name: mint huang
+name: mint Huang
 position: student
 ---
 mint is tired and sad.
